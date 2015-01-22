@@ -5,5 +5,5 @@ some changes on this repo
 
 changes after cla update
 
-new changes
+new changes after CLA update
 
